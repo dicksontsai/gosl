@@ -10,9 +10,9 @@ import (
 	"math"
 	"math/cmplx"
 
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/rnd"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/rnd"
 )
 
 func main() {

@@ -14,7 +14,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // PutArray puts an array with name described in path into HDF5 file

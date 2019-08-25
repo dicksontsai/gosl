@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 func TestSingleq4(tst *testing.T) {

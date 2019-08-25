@@ -5,7 +5,7 @@
 package gm
 
 import (
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 // GridPlotter assists in drawing grids

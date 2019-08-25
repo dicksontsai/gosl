@@ -7,10 +7,10 @@ package ode
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/mpi"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/mpi"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // Config holds configuration parameters for the ODE solver

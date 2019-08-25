@@ -8,7 +8,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // GrayBoard holds grayscale figure data

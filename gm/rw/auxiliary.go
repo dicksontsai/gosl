@@ -4,7 +4,7 @@
 
 package rw
 
-import "github.com/cpmech/gosl/io"
+import "github.com/dicksontsai/gosl/io"
 
 func atob(s string) bool {
 	if s == ".t." || s == ".T." {

@@ -7,10 +7,10 @@ package opt
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 func runGradDescTest(tst *testing.T, fnkey string, p *Problem, x0 la.Vector, tolf, tolx, α float64) (sol *GradDesc) {

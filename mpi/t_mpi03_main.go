@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/mpi"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/mpi"
 )
 
 func main() {

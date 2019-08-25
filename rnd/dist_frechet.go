@@ -7,9 +7,9 @@ package rnd
 import (
 	"math"
 
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // DistFrechet implements the Frechet / Type II Extreme Value Distribution (largest value)

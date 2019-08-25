@@ -9,7 +9,7 @@ package main
 import (
 	"math"
 
-	"github.com/cpmech/gosl/vtk"
+	"github.com/dicksontsai/gosl/vtk"
 )
 
 func calcP(x []float64) float64 {

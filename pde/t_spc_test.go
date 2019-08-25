@@ -8,14 +8,14 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/fun/dbf"
-	"github.com/cpmech/gosl/gm"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/fun/dbf"
+	"github.com/dicksontsai/gosl/gm"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 func TestSpc01a(tst *testing.T) {

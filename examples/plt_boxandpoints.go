@@ -7,7 +7,7 @@
 package main
 
 import (
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 func main() {

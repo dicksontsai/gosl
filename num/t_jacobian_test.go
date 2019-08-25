@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/la"
 )
 
 const (

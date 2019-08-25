@@ -7,9 +7,9 @@
 package main
 
 import (
-	"github.com/cpmech/gosl/gm/tri"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/rnd"
+	"github.com/dicksontsai/gosl/gm/tri"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/rnd"
 )
 
 func main() {

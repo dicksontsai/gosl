@@ -7,7 +7,7 @@ package al
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // int ///////////////////////////////////////////////////////////////////////////

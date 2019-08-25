@@ -7,8 +7,8 @@ package al
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/rnd"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/rnd"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 const benchmarkArrayIntSize = 10000

@@ -5,8 +5,8 @@
 package num
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun"
 )
 
 // QuadDiscreteTrapzXY approximates the area below the discrete curve defined by x and y points.

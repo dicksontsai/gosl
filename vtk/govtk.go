@@ -17,8 +17,8 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/io"
 )
 
 // Scene holds essential data to draw and interact with the x-y-z Cartesian system

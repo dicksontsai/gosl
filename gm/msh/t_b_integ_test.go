@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 var (

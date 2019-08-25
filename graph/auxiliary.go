@@ -5,8 +5,8 @@
 package graph
 
 import (
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // PrintIndicatorMatrix prints indicator matrix

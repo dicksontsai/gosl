@@ -7,8 +7,8 @@ package gm
 import (
 	"math"
 
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/la"
 )
 
 // facTfinite defines a structure to implement transfinite mappings

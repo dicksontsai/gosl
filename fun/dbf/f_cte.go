@@ -4,7 +4,7 @@
 
 package dbf
 
-import "github.com/cpmech/gosl/chk"
+import "github.com/dicksontsai/gosl/chk"
 
 // Zero implements an specialisation of Cte function that always returns zero
 var Zero Cte

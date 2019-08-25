@@ -10,10 +10,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/rnd"
-	"github.com/cpmech/gosl/utl"
-	"github.com/cpmech/gosl/utl/al"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/rnd"
+	"github.com/dicksontsai/gosl/utl"
+	"github.com/dicksontsai/gosl/utl/al"
 )
 
 func run(N []float64, nRnd int, sorter func(A []float64, compare func(a, b float64) int)) (Tfwd, Tbwd, Trnd []float64) {

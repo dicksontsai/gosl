@@ -9,10 +9,10 @@ package main
 import (
 	"time"
 
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/opt"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/opt"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 func main() {

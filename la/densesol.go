@@ -7,8 +7,8 @@ package la
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la/oblas"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/la/oblas"
 )
 
 // DenSolve solves dense linear system using LAPACK (OpenBLAS)

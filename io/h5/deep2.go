@@ -12,8 +12,8 @@ package h5
 import "C"
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // PutDeep2 puts a Deep2 slice into file

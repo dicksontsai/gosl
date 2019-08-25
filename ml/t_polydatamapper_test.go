@@ -7,7 +7,7 @@ package ml
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 func TestPolyDataMapper01(tst *testing.T) {

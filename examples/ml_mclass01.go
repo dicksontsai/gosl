@@ -7,10 +7,10 @@
 package main
 
 import (
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/ml"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/ml"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 func main() {

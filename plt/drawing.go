@@ -5,7 +5,7 @@
 package plt
 
 import (
-	"github.com/cpmech/gosl/io"
+	"github.com/dicksontsai/gosl/io"
 )
 
 // AutoScale rescales plot area

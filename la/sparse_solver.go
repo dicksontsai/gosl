@@ -5,8 +5,8 @@
 package la
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/mpi"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/mpi"
 )
 
 // The SpArgs structure holds arguments to configure Solvers

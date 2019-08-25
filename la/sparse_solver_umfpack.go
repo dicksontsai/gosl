@@ -18,7 +18,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // Umfpack wraps the UMFPACK solver

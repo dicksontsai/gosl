@@ -4,7 +4,7 @@
 
 package msh
 
-import "github.com/cpmech/gosl/la"
+import "github.com/dicksontsai/gosl/la"
 
 // cell kinds
 const (

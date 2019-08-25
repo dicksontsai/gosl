@@ -5,9 +5,9 @@
 package ml
 
 import (
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/rnd"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/rnd"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // Stat holds statistics about data

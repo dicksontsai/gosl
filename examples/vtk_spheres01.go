@@ -6,7 +6,7 @@
 
 package main
 
-import "github.com/cpmech/gosl/vtk"
+import "github.com/dicksontsai/gosl/vtk"
 
 func main() {
 

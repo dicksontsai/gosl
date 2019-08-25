@@ -7,9 +7,9 @@ package fun
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // InterpType specifies the type of interpolant

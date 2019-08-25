@@ -9,8 +9,8 @@ package main
 import (
 	"math"
 
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 func main() {

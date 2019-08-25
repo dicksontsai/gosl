@@ -11,10 +11,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la/oblas"
-	"github.com/cpmech/gosl/plt"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la/oblas"
+	"github.com/dicksontsai/gosl/plt"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 func MatMul(c [][]float64, α float64, a, b [][]float64) {

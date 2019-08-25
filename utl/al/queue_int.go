@@ -5,7 +5,7 @@
 package al
 
 import (
-	"github.com/cpmech/gosl/io"
+	"github.com/dicksontsai/gosl/io"
 )
 
 // IntQueue implements a FIFO queue, a sequence where the first inserted will be the first removed.

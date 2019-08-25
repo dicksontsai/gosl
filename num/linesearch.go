@@ -7,9 +7,9 @@ package num
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // LineSearch finds a new point x along the direction dx, from x0, where the function

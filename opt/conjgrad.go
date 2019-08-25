@@ -7,11 +7,11 @@ package opt
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun/dbf"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/num"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun/dbf"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/num"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // ConjGrad implements the multidimensional minimization by the Fletcher-Reeves-Polak-Ribiere method.

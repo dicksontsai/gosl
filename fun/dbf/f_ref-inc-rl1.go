@@ -7,7 +7,7 @@ package dbf
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // RefIncRL1 implements a specialisation of the reference increasing model

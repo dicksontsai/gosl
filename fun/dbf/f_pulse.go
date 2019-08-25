@@ -7,7 +7,7 @@ package dbf
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // Pulse implements a ramp function

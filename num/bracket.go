@@ -7,9 +7,9 @@ package num
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/io"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/io"
 )
 
 // Bracket implements routines to bracket roots or optima

@@ -7,7 +7,7 @@ package h5
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 func TestData01(tst *testing.T) {

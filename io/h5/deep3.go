@@ -12,7 +12,7 @@ package h5
 import "C"
 
 import (
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // PutDeep3 puts a deep slice with 3 levels and name described in path into HDF5 file

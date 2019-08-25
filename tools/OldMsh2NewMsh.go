@@ -10,10 +10,10 @@ import (
 	"bytes"
 	"encoding/json"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/gm/msh"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/gm/msh"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // OldVert holds vertex data

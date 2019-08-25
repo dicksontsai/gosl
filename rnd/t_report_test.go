@@ -7,7 +7,7 @@ package rnd
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 func Test_report01(tst *testing.T) {

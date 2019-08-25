@@ -7,8 +7,8 @@
 package main
 
 import (
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la"
 )
 
 func main() {

@@ -7,9 +7,9 @@ package opt
 import (
 	"strings"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun/dbf"
-	"github.com/cpmech/gosl/la"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun/dbf"
+	"github.com/dicksontsai/gosl/la"
 )
 
 // NonLinSolver solves (unconstrained) nonlinear optimization problems

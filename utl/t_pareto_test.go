@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/io"
 )
 
 func Test_pareto01(tst *testing.T) {

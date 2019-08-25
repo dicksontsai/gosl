@@ -5,10 +5,10 @@
 package gm
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/fun"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 // Transfinite maps a reference square [-1,+1]×[-1,+1] into a curve-bounded quadrilateral

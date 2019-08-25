@@ -7,8 +7,8 @@ package rnd
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/plt"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/plt"
 )
 
 func Test_halton01(tst *testing.T) {

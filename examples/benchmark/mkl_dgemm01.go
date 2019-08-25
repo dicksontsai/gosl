@@ -11,9 +11,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la/mkl"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/la/mkl"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 func main() {

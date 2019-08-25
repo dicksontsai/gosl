@@ -21,7 +21,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/dicksontsai/gosl/chk"
 )
 
 // PutInts puts a slice of integers into file

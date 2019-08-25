@@ -8,10 +8,10 @@ import (
 	"math"
 	"sync"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/num"
-	"github.com/cpmech/gosl/utl"
+	"github.com/dicksontsai/gosl/chk"
+	"github.com/dicksontsai/gosl/la"
+	"github.com/dicksontsai/gosl/num"
+	"github.com/dicksontsai/gosl/utl"
 )
 
 // Radau5 implements the Radau5 implicit Runge-Kutta method

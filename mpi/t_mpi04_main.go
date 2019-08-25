@@ -9,8 +9,8 @@ package main
 import (
 	"time"
 
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/mpi"
+	"github.com/dicksontsai/gosl/io"
+	"github.com/dicksontsai/gosl/mpi"
 )
 
 func main() {
